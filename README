@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1270
+
+DrChip's indent files; some are modified from the distribution (such as the ones for sh, vim) and some are new (maple, tex). They're what I use.  Indenting is one of those "Irrationality Reigns" topics; everyone seems to have a lock on the Right Way to do it.  So, my Right Way may not be yours (sorry!).
+
